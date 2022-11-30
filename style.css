@@ -1,0 +1,58 @@
+body{
+ margin: 0;  
+ background-color: #000000;
+ text-align: center;
+ color: white;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.topcontainer{
+    padding-top: 100px;
+
+}
+h1{
+    font-family: sacramento,cursive;
+
+}
+ .cloud1{
+    position: absolute;
+    top : 200px;
+
+ }
+ .cloud2{
+    position: absolute;
+    top : 60px;
+    right: 1100px;
+    height: 200px;
+    width: 200px;
+
+ }
+ h2{
+
+ }
+ h3{
+    font-family: Montserrat,sans-serif;
+ }
+  .photo{
+   height: 200px;
+   width: 200px;
+   
+ }
+ .wave{
+display: inline-block;
+ }
+
+.laptop1{
+   height: 300px;
+   width: 300px;
+}
+.devicon{
+  font-size: xxx-large;
+  display: inline-block;
+  padding: 50px;
+  color: green;
+  font-weight: bolder;
+
+
+}
